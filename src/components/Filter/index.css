@@ -1,0 +1,30 @@
+.filter-box{
+    margin-top: 20px;
+}
+
+.filter_label {
+    margin-left: 30px;
+    font-family: Roboto;
+    font-style: Bold;
+    Font-size: 36px;
+    Line-height: 42px;
+    Line-height: 100%;
+    Letter-spacing: 3%;
+}
+
+.filter_input {
+
+    margin-left: 30px;
+    margin-top: 15px;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    padding: 5px 10px 5px 15px;
+    border-radius: 5px;
+    width: 500px;
+    height: 50px;
+    border: none;
+    background-color: rgb(223, 222, 222);
+    color: #000000;
+}
+
